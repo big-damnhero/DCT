@@ -1,0 +1,2 @@
+# DCT
+JPEG Compression
